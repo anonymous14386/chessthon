@@ -242,4 +242,4 @@ print("Destination: ", pieceDestX, ",", pieceDestY)
 #Starting withhhhh white pawns!
 #We're looking at 6,0-7 here or 2,a-h
 
-if pieceSel
+print("You selected: ", board[selCordY, selCordX] )
